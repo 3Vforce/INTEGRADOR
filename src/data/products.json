@@ -1,0 +1,65 @@
+[
+    {
+        
+        "name":"calza larga",
+        "material": "lycra",
+        "color": "negro",
+        "talle": "2",
+        "price":"$3900",
+        "img":"/img/imagen1.jpeg"
+        
+    },
+    {
+        
+        "name":"calza larga",
+        "material": "lycra",
+        "color": "negro",
+        "talle": "2",
+        "price":"$3900",
+        "img":"/img/imagen2.jpeg"
+
+        
+    },
+    {
+       
+        "name":"calza larga",
+        "material": "lycra",
+        "color": "negro",
+        "talle": "2",
+        "price":"$3900",
+        "img":"/img/imagen3.jpeg"
+        
+    },
+    {
+        
+        "name":"calza larga",
+        "material": "lycra",
+        "color": "negro",
+        "talle": "2",
+        "price":"$3900",
+        "img":"/img/imagen4.jpeg"
+        
+    },
+    {
+        
+        "name":"calza larga",
+        "material": "lycra",
+        "color": "negro",
+        "talle": "2",
+        "price":"$3900",
+        "img":"/img/imagen5.jpeg"
+        
+    },
+    {
+        
+        "name":"calza larga",
+        "material": "lycra",
+        "color": "negro",
+        "talle": "2",
+        "price":"$3900",
+        "img":"/img/imagen6.jpeg"
+        
+    }
+
+
+]
